@@ -3,6 +3,7 @@ A Database of Movies that comprises of a Linked List backed structure
 
 
 HEADER FILES: stdlib.h, stdio.h, typedefs.h, string.h
+
 DATA FILES: listFunctions.c, main.c
 
 
